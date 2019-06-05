@@ -5,4 +5,9 @@ function soma(a,b){
     return a+b
 }
 
+function subtrai(a,b){
+    return a-b
+}
+
 console.log(soma(num1,num2))
+console.log(subtrai(num1,num2))
